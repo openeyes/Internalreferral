@@ -1,3 +1,6 @@
+# DEPRECATED - this module is no longer used
+
+
 # Internalreferral
 
 An OpenEyes event module to track internal referrals within the institution
